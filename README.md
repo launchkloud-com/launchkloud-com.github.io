@@ -25,5 +25,4 @@ Launching Platform
 ![image](https://user-images.githubusercontent.com/108437230/208503232-1be19266-a855-41cd-8e90-7ab2ae4033f1.png)
 ![image](https://user-images.githubusercontent.com/108437230/208503263-f2e605db-b4e4-4fc0-a84d-813fb41f386e.png)
 ![image](https://user-images.githubusercontent.com/108437230/208503301-8eb9d4ff-9dad-49e7-9222-a1ecc040ff94.png)
-![image](https://user-images.githubusercontent.com/108437230/208503318-6c8ad220-45e3-4ef9-b11e-eda4d9548498.png)
 ![image](https://user-images.githubusercontent.com/108437230/208503348-46dad919-a284-4432-9b23-ea0e387276d4.png)
